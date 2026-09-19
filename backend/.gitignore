@@ -1,6 +1,0 @@
-# Auto-generated
-.venv/
-__pycache__/
-*.pyc
-.env
-.vercel/
